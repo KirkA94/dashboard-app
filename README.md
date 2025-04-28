@@ -7,3 +7,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # nextjs-dashboard-app
 # nextjs-dashboard-app
 # dashboard-app
+# dashboard-app
